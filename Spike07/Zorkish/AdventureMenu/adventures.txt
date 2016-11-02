@@ -1,0 +1,12 @@
+Turtle Mania,A world revolving around turtles
+Turtle Homeland,the land of all turtles,north east,Turtle Cove,south east,Turtle Beach
+Turtle Cove,a cove of coolness,south west,Turtle Homeland,south east,Turtle Jungle
+Turtle Beach,sand is great,north west,Turtle Homeland,north east,Turtle Jungle
+Turtle Jungle,a jungle dedicated to turtles,north west,Turtle Cove,south west,Turtle Beach
+break
+Koala Mania,A world revolving around koalas
+Koala Homeland,the land of all koalas,north east,Koala Cove,south east,Koala Beach
+Koala Cove,a cove of coolness,south west,Koala Homeland,south east,Koala Jungle
+Koala Beach,sand is great,north west,Koala Homeland,north east,Koala Jungle
+Koala Jungle,a jungle dedicated to koalas,north west,Turtle Cove,south west,Turtle Beach
+break

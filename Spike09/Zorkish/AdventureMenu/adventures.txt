@@ -1,0 +1,12 @@
+Turtle Mania,A world revolving around turtles
+Turtle Homeland,the land of all turtles,north east,Turtle Cove,south east,Turtle Beach,ENT,gem,Sapphire,Noice,sword,Long Sword,Much long,BAG,Sexy Bag,A cute bag,open,gem,Gold,Quality find,sword,Dagger,Stab stab
+Turtle Cove,a cove of coolness,south west,Turtle Homeland,south east,Turtle Jungle,ENT,gem,Ruby,Such red,sword,Short Sword,Such wow,key,Pretty Key,Some say it opens a bag,BAG,Pretty Bag,A nice bag,pretty key,gem,Coal,Ew,sword,Short Knife,That's not a knife
+Turtle Beach,sand is great,north west,Turtle Homeland,north east,Turtle Jungle,ENT,gem,Emerald,Green as,sword,Average Sword,Wow wee
+Turtle Jungle,a jungle dedicated to turtles,north west,Turtle Cove,south west,Turtle Beach,ENT,gem,Opal,Sexy,sword,Great Sword,So great
+break
+Koala Mania,A world revolving around koalas
+Koala Homeland,the land of all koalas,north east,Koala Cove,south east,Koala Beach,ENT,gem,Sapphire,Noice,sword,Long Sword,Much long,BAG,Sexy Bag,A cute bag,open,gem,Gold,Quality find,sword,Dagger,Stab stab
+Koala Cove,a cove of coolness,south west,Koala Homeland,south east,Koala Jungle,ENT,gem,Ruby,Such red,sword,Short Sword,Such wow,key,Pretty Key,Some say it opens a bag,BAG,Pretty Bag,A nice bag,pretty key,gem,Coal,Ew,sword,Short Knife,That's not a knife
+Koala Beach,sand is great,north west,Koala Homeland,north east,Koala Jungle,ENT,gem,Emerald,Green as,sword,Average Sword,Wow wee
+Koala Jungle,a jungle dedicated to koalas,north west,Turtle Cove,south west,Turtle Beach,ENT,gem,Opal,Sexy,sword,Great Sword,So great
+break
